@@ -34,3 +34,20 @@
             text-align: center;
             padding: 15px;
         }
+.fi {
+    margin-top: 20px;
+}
+
+.fi a {
+    color: white;
+    font-size: 30px;
+    margin: 12px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.fi a:hover {
+    color: aqua;
+    transform: scale(1.2);
+}
+
